@@ -3,6 +3,16 @@
 
 ## NAME: AVINESH P  
 ## REGISTER NUMBER: 212222060022 
+## PROMPT: 
+Prepare a detailed scenario-based report on Experiment 3: Scenario-Based Report Development 
+Utilizing Diverse Prompting Techniques for designing an AI-powered customer support chatbot. The 
+chatbot should handle product troubleshooting, order tracking, and general inquiries. The report 
+must compare how different Generative AI platforms, specifically ChatGPT, Google Gemini, and Meta 
+AI, respond when applying Straightforward Prompts, Tabular Format Prompting, Preceding Question 
+Prompting, and Missing Word Prompting. The discussion should highlight differences in response 
+style, clarity, depth, accuracy, and user-friendliness. The content should be presented in a 
+professional academic report format, covering aim, explanation, methodology, comparative findings, 
+evaluation, conclusion, and result.
 
 ---
 
