@@ -1,8 +1,8 @@
 # Ex.No.3  
 # Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-## NAME: AVINESH P  
-## REGISTER NUMBER: 212222060022 
+## NAME: Hariprasath.R
+## REGISTER NUMBER: 212223060081
 ## PROMPT: 
 Prepare a detailed scenario-based report on Experiment 3: Scenario-Based Report Development 
 Utilizing Diverse Prompting Techniques for designing an AI-powered customer support chatbot. The 
