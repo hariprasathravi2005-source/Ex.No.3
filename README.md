@@ -1,33 +1,101 @@
-# Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+# Ex.No.3  
+# Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
+## NAME: Hariprasath.R
+## REGISTER NUMBER: 212223060081
+## PROMPT: 
+Prepare a detailed scenario-based report on Experiment 3: Scenario-Based Report Development 
+Utilizing Diverse Prompting Techniques for designing an AI-powered customer support chatbot. The 
+chatbot should handle product troubleshooting, order tracking, and general inquiries. The report 
+must compare how different Generative AI platforms, specifically ChatGPT, Google Gemini, and Meta 
+AI, respond when applying Straightforward Prompts, Tabular Format Prompting, Preceding Question 
+Prompting, and Missing Word Prompting. The discussion should highlight differences in response 
+style, clarity, depth, accuracy, and user-friendliness. The content should be presented in a 
+professional academic report format, covering aim, explanation, methodology, comparative findings, 
+evaluation, conclusion, and result.
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Straightforward Prompts:
-    - •	"Define photosynthesis in one sentence."
-    - 	"List three advantages of electric vehicles."
+---
 
- 3.	Tabular Format Prompting:
-     •	"Compare and contrast AC and DC current in a table."
-     •	"Provide a table listing five programming languages, their paradigms, and one use case each."
-3. Preceding Question Prompting:
-    •	"Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."
-    •	"How do vaccines work? Describe the process of immunization in simple terms."
-4. Missing Word Prompting:
-   •	"The capital of France is ____."
-  •	"In photosynthesis, plants absorb sunlight to produce ____."
+## Aim  
 
+To design prompts using Straightforward Prompts, Tabular Format Prompting, Preceding Question Prompting, and Missing Word Prompting for building an AI-powered chatbot that assists customers in product troubleshooting, order tracking, and general inquiries.  
+To evaluate responses from ChatGPT, Google Gemini, and Meta AI and identify which performs best.  
 
-### Conclusion 
+---
 
+## Explanation  
 
-Result: The various types of Prompts are executed successfully with generated the report.
+Prompt engineering influences how AI models generate responses. Different AI systems show varied behavior in terms of clarity, depth, empathy, and structure.  
+We test four prompt types with three AIs (**ChatGPT, Gemini, Meta AI**) in a **customer support chatbot scenario**.  
 
+---
 
+## Procedure & Responses  
 
+### 1. Straightforward Prompts  
+**Prompt:** *“List three steps to reset my Wi-Fi router.”*  
 
-# Result: Thus the Prompts were exected succcessfully.
+| AI System   | Response Style |
+|-------------|----------------|
+| ChatGPT     | Clear 3-step instructions, simple and direct. |
+| Gemini      | Gives steps + extra security advice (e.g., change password after reset). |
+| Meta AI     | Provides short instructions, but less detail than ChatGPT/Gemini. |
 
+---
+
+### 2. Tabular Format Prompting  
+**Prompt:** *“Provide a table comparing common product issues, their causes, and quick fixes.”*  
+
+| AI System   | Response Style |
+|-------------|----------------|
+| ChatGPT     | Well-structured, clean table with 3 columns (Issue, Cause, Fix). |
+| Gemini      | Larger table with extra technical info (sometimes too detailed). |
+| Meta AI     | Simple table, fewer entries, more concise but not very detailed. |
+
+---
+
+### 3. Preceding Question Prompting  
+**Prompt 1:** *“Why is my smartphone battery draining quickly?”*  
+**Prompt 2:** *“Based on these causes, what steps can I take to improve battery life?”*  
+
+| AI System   | Response Style |
+|-------------|----------------|
+| ChatGPT     | Explains causes (apps, brightness, background activity) → suggests fixes clearly. |
+| Gemini      | Gives detailed technical explanations (CPU cycles, app permissions) → advanced fixes. |
+| Meta AI     | Shorter explanation, practical fixes, but less depth compared to ChatGPT/Gemini. |
+
+---
+
+### 4. Missing Word Prompting  
+**Prompt:** *“To track an order, you need your ____.”*  
+
+| AI System   | Response Style |
+|-------------|----------------|
+| ChatGPT     | “Tracking ID” (direct and correct). |
+| Gemini      | “Tracking number (also called tracking ID).” |
+| Meta AI     | “Order number” (sometimes ambiguous compared to tracking ID). |
+
+---
+
+## Evaluation  
+
+- **ChatGPT** → Best balance of clarity, detail, and conversational tone. Handles all four prompt types smoothly.  
+- **Gemini** → Very detailed and technical, good for advanced users, but may overwhelm normal customers.  
+- **Meta AI** → Simple and concise, but often lacks depth and detail compared to ChatGPT/Gemini.  
+
+---
+
+## Conclusion  
+
+For designing a customer support chatbot, **ChatGPT is the most effective** because it balances clarity, helpfulness, and user-friendly tone.  
+
+- Gemini is better suited for **technical/expert audiences** who want detailed explanations.  
+- Meta AI works well for **quick and short replies**, but may not be enough for troubleshooting complex issues.  
+
+👉 **Final Choice:** ChatGPT is the best overall for customer support chatbot development.  
+
+---
+
+## Result  
+
+Thus, the prompts were executed successfully, and the comparison showed that **ChatGPT is the most suitable AI system** for building an effective, user-friendly customer support chatbot.  
